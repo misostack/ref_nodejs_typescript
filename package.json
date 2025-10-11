@@ -41,5 +41,11 @@
   "engines": {
     "node": ">=18.0.0",
     "npm": ">=9.0.0"
+  },
+  "dependencies": {
+    "install": "^0.13.0",
+    "inversify": "^7.10.2",
+    "npm": "^11.6.2",
+    "reflect-metadata": "^0.2.2"
   }
 }
